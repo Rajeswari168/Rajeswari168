@@ -93,6 +93,20 @@ A smart classroom management system that helps institutions monitor attendance, 
 
 ---
 
+### Nexura – Empathetic AI Chronic Care Companion
+
+An AI-powered chronic care management platform designed to help patients monitor their health through intelligent tracking, personalized insights, and proactive care. Nexura combines secure authentication, health monitoring, and AI-driven assistance to improve long-term patient care and caregiver collaboration.
+
+**Key Features**
+- Secure user authentication with Sign Up, Login, and Dashboard workflow
+- AI-powered health companion for personalized chronic care support
+- Medication scheduling and adherence tracking
+- Sleep and vital health monitoring with trend analysis
+- Medical report analysis using multimodal AI
+- Emergency caregiver alert system for critical health situations
+
+---
+
 ## Currently Learning
 
 - Advanced Java
