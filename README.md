@@ -65,7 +65,7 @@ I believe in learning through practical implementation, continuously building pr
 
 ## Featured Projects
 
-### AI Mutual Fund Recommendation System
+### Mutual Fund Tracker and Risk Analyzer
 
 An AI-powered investment platform that recommends suitable mutual funds based on user profiles, financial goals, and risk tolerance.
 
@@ -76,20 +76,6 @@ An AI-powered investment platform that recommends suitable mutual funds based on
 - SIP Calculator
 - Portfolio Analysis
 - AI Fund Replacement Engine
-
----
-
-### AI Resume Screening & Candidate Matching System
-
-An intelligent recruitment platform that automates resume parsing, candidate evaluation, and job matching using AI.
-
-**Key Features**
-
-- Resume Parsing
-- Candidate Ranking
-- Skill Matching
-- Recruiter Dashboard
-- AI-Based Candidate Analysis
 
 ---
 
