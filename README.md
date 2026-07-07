@@ -90,9 +90,28 @@ A smart classroom management system that helps institutions monitor attendance, 
 - Performance Dashboard
 - Teacher Portal
 - Reports & Insights
-
+  
 ---
 
+## Power BI Dashboard Projects
+
+### Student Enrollment Analytics Dashboard
+
+A Power BI dashboard designed to analyze student enrollment trends and institutional performance through interactive visualizations. It helps educational institutions make data-driven decisions by providing meaningful insights into admissions, demographics, and academic statistics.
+
+**Key Features**
+
+- Student Enrollment Trend Analysis
+- Department-wise Student Distribution
+- Gender-wise Enrollment Analysis
+- Age Group Distribution
+- Year-wise Admission Insights
+- Interactive Filters & Slicers
+- KPI Cards for Total Students, Departments, and Admissions
+- Dynamic Charts and Visual Reports
+- Data-driven Decision Support
+
+---
 ### Nexura – Empathetic AI Chronic Care Companion
 
 An AI-powered chronic care management platform designed to help patients monitor their health through intelligent tracking, personalized insights, and proactive care. Nexura combines secure authentication, health monitoring, and AI-driven assistance to improve long-term patient care and caregiver collaboration.
